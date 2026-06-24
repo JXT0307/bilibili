@@ -1,0 +1,9 @@
+﻿# 敏感文件
+*_cookies.json
+*.cookie
+*.log
+.env
+*.exe
+__pycache__/
+.idea/
+.vscode/
